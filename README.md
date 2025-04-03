@@ -48,6 +48,11 @@ FusionLSTM-KT was evaluated on 5 real-world datasets:
 | ETTh1/2     | 17,420    | 7        | Hourly      |
 | ETTm1/2     | 69,680    | 7        | Every 5min  |
 
+You can download the dataset from the network disk:
+通过网盘分享的文件：Dataset
+链接: https://pan.baidu.com/s/1PI6L6hlmENXuY2ervCMxcg?pwd=cpxt 提取码: cpxt 
+--来自百度网盘超级会员v2的分享
+
 ## 🧱 Model Architecture
 
 FusionLSTM-KT consists of 4 components:
