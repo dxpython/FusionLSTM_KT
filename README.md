@@ -49,9 +49,9 @@ FusionLSTM-KT was evaluated on 5 real-world datasets:
 | ETTm1/2     | 69,680    | 7        | Every 5min  |
 
 You can download the dataset from the network disk:
-通过网盘分享的文件：Dataset
-链接: https://pan.baidu.com/s/1PI6L6hlmENXuY2ervCMxcg?pwd=cpxt 提取码: cpxt 
---来自百度网盘超级会员v2的分享
+Link: https://pan.baidu.com/s/1PI6L6hlmENXuY2ervCMxcg?pwd=cpxt 
+Extraction code: cpxt 
+
 
 ## 🧱 Model Architecture
 
