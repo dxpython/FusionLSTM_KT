@@ -51,7 +51,9 @@ FusionLSTM-KT was evaluated on 5 real-world datasets:
 You can download the dataset from the network disk:
 Link: https://pan.baidu.com/s/1PI6L6hlmENXuY2ervCMxcg?pwd=cpxt 
 Extraction code: cpxt 
-
+https://www.kaggle.com/datasets/anonuymous/dataset-of-fusionlstm-kt-project/data
+Or you can download the complete dataset from Kaggle：
+https://www.kaggle.com/datasets/anonuymous/dataset-of-fusionlstm-kt-project/data
 
 ## 🧱 Model Architecture
 
