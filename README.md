@@ -64,7 +64,7 @@ FusionLSTM-KT consists of 4 components:
 3. **KAN (Graph Embedding)**: Integrates external knowledge via GCN.
 4. **Transformer (Multi-Head Attention)**: Fuses contextual + global signals.
 
-![](./images/Fig1.png)
+![](./images/model.png)
 
 🔍 Evaluation
 
