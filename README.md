@@ -70,7 +70,11 @@ FusionLSTM-KT consists of 4 components:
 
 ![](./images/Fig4.png)
 
-![](./images/Fig5.png)                                                                             
+![](./images/Fig5.png)      
+
+
+## Contact
+E-mail any questions to anonymouslook5@outlook.com 
 
 ​                                                                    Ablation Experiment Results
 
