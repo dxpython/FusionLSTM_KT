@@ -19,7 +19,7 @@ Time series forecasting is essential in domains like energy, finance, traffic, a
 ## 📦 Project Structure
 
 ```bash
-FusionLSTM_KT/
+KALFormer/
 ├─ dataset/                                   
 ├─ experiment/                  
 │  ├─ Ablation_experiment/     
@@ -57,7 +57,7 @@ https://www.kaggle.com/datasets/anonuymous/dataset-of-fusionlstm-kt-project/data
 
 ## 🧱 Model Architecture
 
-FusionLSTM-KT consists of 4 components:
+KALFormer consists of 4 components:
 
 1. **LSTM Layers**: Extract temporal features.
 2. **Self-Attention**: Focuses on key timesteps.
@@ -71,6 +71,7 @@ FusionLSTM-KT consists of 4 components:
 ![](./images/Fig4.png)
 
 ![](./images/Fig5.png)      
+
 
 
 
