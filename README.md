@@ -1,4 +1,4 @@
-# 📈 KALFormer: Knowledge-Augmented Attention Learning for Long-Term Time Series Forecasting with Transformer
+# 📈 KALFormer: Knowledge-Infused Attention for Long-Horizon Time Series Forecasting
 
 > A hybrid deep learning model that fuses LSTM, Attention, Knowledge Graphs (KAN), and Transformer to tackle long-range dependencies and external interference in time series data.
 
@@ -71,6 +71,7 @@ FusionLSTM-KT consists of 4 components:
 ![](./images/Fig4.png)
 
 ![](./images/Fig5.png)      
+
 
 
 
