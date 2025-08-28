@@ -1,4 +1,4 @@
-# 📈 FusionLSTM-KT: A Robust Framework for Time Series Forecasting
+# 📈 KALFormer: Knowledge-Augmented Attention Learning for Long-Term Time Series Forecasting with Transformer
 
 > A hybrid deep learning model that fuses LSTM, Attention, Knowledge Graphs (KAN), and Transformer to tackle long-range dependencies and external interference in time series data.
 
@@ -12,7 +12,7 @@ Time series forecasting is essential in domains like energy, finance, traffic, a
 2. **Complex Dynamics**: Non-linear, high-dimensional, and irregular patterns in real-world time series.
 3. **External Influences**: Events like policy shifts, weather changes, and holidays that affect forecasting accuracy.
 
-**FusionLSTM-KT** is designed to address all of the above through a multi-module neural network that blends memory, attention, and knowledge integration.
+**KALFormer** is designed to address all of the above through a multi-module neural network that blends memory, attention, and knowledge integration.
 
 ---
 
@@ -73,6 +73,6 @@ FusionLSTM-KT consists of 4 components:
 ![](./images/Fig5.png)      
 
 
-## Contact
-E-mail any questions to anonymouslook5@outlook.com 
+
+
 
